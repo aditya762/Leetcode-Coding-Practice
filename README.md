@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
