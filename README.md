@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2448-count-number-of-bad-pairs) |
 ## Design
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
