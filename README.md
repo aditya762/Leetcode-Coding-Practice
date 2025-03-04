@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
