@@ -2,20 +2,16 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         unordered_map<int, int> prefixSumCount;
-        prefixSumCount.reserve(nums.size()); // Prevents rehashing for small arrays
-        
+        prefixSumCount.reserve(5000);
         int count = 0, sum = 0;
         prefixSumCount[0] = 1;
-        
-        for (int num : nums) {
-            sum += num;
-            int target = sum - k;
-            if (prefixSumCount.count(target)) {
-                count += prefixSumCount[target];
+        for (int i = 0; i < nums.size(); ++i) {
+            sum += nums[i];
+            if (prefixSumCount.find(sum - k) != prefixSumCount.end()) {
+                count += prefixSumCount[sum - k];
             }
-            prefixSumCount[sum]++;
+            ++prefixSumCount[sum];
         }
-        
         return count;
     }
 };
