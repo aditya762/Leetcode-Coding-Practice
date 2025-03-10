@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
