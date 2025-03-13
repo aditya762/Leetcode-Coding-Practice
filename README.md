@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-zero-array-transformation-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [3643-zero-array-transformation-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
