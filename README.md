@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0063-unique-paths-ii) |
 | [0162-find-peak-element](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/1170-shortest-common-supersequence) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
