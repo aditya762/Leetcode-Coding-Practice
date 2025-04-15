@@ -134,4 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0063-unique-paths-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya762/Leetcode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
